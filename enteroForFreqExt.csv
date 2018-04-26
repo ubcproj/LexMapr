@@ -1,0 +1,688 @@
+Code,Description
+samp8,Animal-Swine-Market Swine
+samp13,"sewage, sand island waste water"
+samp14,Pecans
+samp15,Ground Beef
+samp19,Human; Homo sapiens
+samp34,feces; Homo sapiens
+samp36,Coyote
+samp41,Poultry
+samp44,Human Carrier
+samp46,Pigeon
+samp50,Tiliqua rugosa
+samp55,Rattus fuscipes
+samp56,Environment
+samp59,Bird
+samp63,Stool/Fecal; Homo sapiens
+samp67,feces; Swine
+samp70,product-eggs-raw-whole
+samp73,frozen raw stuffed chicken product
+samp74,frozen crab sections
+samp75,clinical; Homo sapiens
+samp112,Bovine Liver; Bos taurus
+samp115,surface
+samp116,coconut shredded
+samp126,whole black pepper
+samp130,Bovine Feces; Bos taurus
+samp143,Turtle Tank
+samp144,prepared cut cuttlefish
+samp151,Environment(Wastewater)
+samp155,feces; Sus scrofa
+samp164,pig at slaughter; Sus domesticus
+samp166,alfalfa sprouts
+samp169,cerase tea
+samp170,dried egg powder
+samp171,frozen mullet
+samp172,shrimp
+samp173,raw bone
+samp180,veggie booty with spinach and kale
+samp181,five spice powder
+samp190,Porcine Feces
+samp200,frz yellow croaker
+samp205,Bovine (feed)
+samp209,oregano
+samp218,equine (feces)
+samp220,Bovine (necropsy)
+samp227,Tortoise (feces)
+samp231,Mule deer (feces)
+samp232,Bovine (multiple tissues)
+samp242,Canine (eye)
+samp243,rubber gasket and metal strip
+samp260,Thin sliced chicken breast
+samp268,peanut butter
+samp271,chicken breast rinse
+samp273,equine liver; Horse
+samp278,ground chicken
+samp288,blend of spices
+samp290,Water from an irrigation pond
+samp296,jalapeno peppers
+samp304,Sheep; Sheep
+samp309,Porcine Lung
+samp311,Animal-Cattle-Steer
+samp313,gecko gecko
+samp323,Walnuts
+samp325,Pig marrow
+samp331,Animal-Calf
+samp342,NRTE (Not-Ready-to-Eat) Comminuted Poultry Exploratory Sampling - Turkeys
+samp347,grouper fillet
+samp350,frz grated coconut
+samp352,basil fines
+samp357,sambar powder
+samp363,spinach
+samp383,animal feces
+samp387,turkey
+samp389,"animal feed, canola meal"
+samp391,minced beef
+samp394,brazil nuts
+samp395,hulled sesame seed
+samp396,scallops
+samp397,blood; Homo sapiens
+samp399,squid
+samp404,Porcine (necropsy)
+samp405,"sesame seeds, hulled"
+samp406,bovine (necropsy-intestine)
+samp408,"water, irrigation"
+samp412,feline (feces)
+samp416,chilli powder
+samp420,"crab meat, frz, pasteurized, cooked"
+samp422,"sesame seeds, natural"
+samp426,tulsi (basil) powder
+samp427,red chile powder
+samp435,frozen seasoned dried file fish
+samp437,Chicken breasts
+samp439,"croaker, frz"
+samp449,Cat; Cat
+samp452,equine feces; Horse
+samp461,xanthan gum
+samp468,Skink in an irrigation pond
+samp469,Factory swab
+samp473,Water GA Pond- CC1
+samp476,Chicken Wings
+samp478,"pet treat, bully stick"
+samp482,bovine (feed-hay)
+samp485,"clams, whole, cooked"
+samp497,Pogona; Bearded Dragon Feces
+samp505,Tango
+samp506,Urine
+samp514,Mushroom
+samp516,Boa Constrictor
+samp519,"snail, boiled, frz"
+samp528,toad
+samp529,natural sesame seeds
+samp535,"animal feed, cottonseed meal"
+samp537,water sample from tomato farm
+samp539,golden thread fish
+samp549,Organic Mizuna
+samp552,Fishmeal from Malawi lake; Free living
+samp553,organic stevia leaf
+samp556,frz mud fish
+samp558,"clam meat; wild caught, cooked"
+samp572,"cuttle fish, dried"
+samp575,kashmiri chillie powder
+samp576,frozen yellowfin tuna steak
+samp577,unknown origin
+samp580,Bovine (intestine)
+samp581,Bovine (environmental)
+samp582,bovine (feed-bloodmeal)
+samp585,poultry meal
+samp587,Caprine (feces)
+samp616,fenugreek powder
+samp630,frz pompret
+samp645,peppers
+samp654,Bos taurus; bovine jejunum
+samp655,feces; Camel
+samp656,Bos taurus; bovine intestine
+samp662,Homo sapiens; blood-culture; Age: eight years; male; blood
+samp663,not isolated
+samp664,sepsis
+samp671,Shake Mix/Powder
+samp672,Ostrich
+samp675,Harbour Porpoise
+samp679,Baboon
+samp683,chicken (parent flock); Gallus gallus
+samp687,crab
+samp702,lettuce
+samp705,"pet treat, rawhides"
+samp706,frozen raw whole sand goby
+samp716,limpets
+samp725,frozen cut crab
+samp730,yellowfin tuna nakaochi scrape
+samp731,chili peppers
+samp734,frz raw escolar steak
+samp739,frozen spiny eel
+samp750,Clinical Isolate
+samp751,"Bovine (necropsy-intestine lung,lymph node spleen)"
+samp760,dried gecko
+samp762,Pig Intestine
+samp768,avian; Bird
+samp769,cashew (kaju) mix
+samp772,thai chili pepper
+samp773,porcine liver; Pig
+samp775,"duck egg yolks, cooked, frozen"
+samp777,turkey; Meleagris gallopavo
+samp781,"chick peas, ground"
+samp789,Gallus gallus; liver
+samp801,Beef for fajita
+samp802,"animal feed, soybean hull"
+samp805,Isolate(Rice Bran)
+samp813,Compost
+samp819,egg-powder
+samp828,red chile
+samp837,dehydrated new mexico powder
+samp843,Product-Raw-Otherwise Processed-Chicken
+samp849,boneless beef
+samp853,isolated soy protein
+samp854,Italian Pine Nuts
+samp865,frz apple snail meat
+samp866,corn soy blend
+samp867,"tuna steak, frz"
+samp878,frz. yellow stripe trevally
+samp880,imitation crab meat
+samp884,tapashi fish
+samp889,frz tuna cubes
+samp890,frz tuna saku blocks
+samp911,red pepper
+samp915,aaa saku block
+samp924,Horse Stool
+samp928,padron peppers
+samp939,Onions
+samp942,Baby Toad in an irrigation pond
+samp943,guajillo chili powder
+samp944,dog food-raw chicken patties
+samp947,Porcine Heart
+samp955,snake feces; snake
+samp958,chili powder kashmiri
+samp960,whole (round) tomatoes
+samp966,peppermint tea/hierbabuena
+samp967,NA
+samp975,urine sample; Homo sapiens
+samp981,environmental culture
+samp992,whole green jalapenos
+samp993,"pet food, raw frozen chicken"
+samp1004,porcine tissue; Sus scrofa
+samp1010,dried taro leaves
+samp1011,Deer Feces
+samp1016,red chili powder
+samp1017,corn chips snacks
+samp1022,perch fillets
+samp1039,"tilapia, frz"
+samp1047,Human-Sporadic; Homo sapiens
+samp1050,Animal - Chicken brooder
+samp1056,Sample #10
+samp1057,frz mackeral
+samp1060,yellowfin tuna steak
+samp1061,buckwheat with mushrooms
+samp1076,frozen silver corvina fillet skinless
+samp1082,Bird; Bird
+samp1084,dried pasilla peppers
+samp1093,frz headless shrimp
+samp1097,Pig lungs
+samp1104,frz makarel fish
+samp1105,"Avian (necropsy-abscess,liver,lung)"
+samp1106,manure solids
+samp1107,keski wr (fish)
+samp1113,soybean meal
+samp1120,chicken farm
+samp1121,cervid; cervid
+samp1122,Pig Liver
+samp1123,porcine spleen
+samp1136,field red chard
+samp1137,cattle; Bos taurus
+samp1144,"yellowfin tuna chunk meat, frz"
+samp1148,fish (shad)
+samp1157,Bathroom Countertop
+samp1165,cherry tomatoes
+samp1166,charoli
+samp1181,Animal - Chicken-Environment swab
+samp1182,fresh papaya
+samp1183,No source specified; Homo sapiens
+samp1184,Dog; Dog
+samp1194,Packaging
+samp1195,halva w/pistachio
+samp1203,ground pepper
+samp1204,"dog food, animal feed"
+samp1206,"goby fish, frz"
+samp1209,"pet treat, rawhide pet chew"
+samp1211,Avian (carcass rinse water)
+samp1213,Bovine Tissue Composite; Bos taurus
+samp1214,puffed vegetable snack
+samp1216,frz rabbits
+samp1217,hicotea turtle; Trachemys scripta callirostris
+samp1218,swine caecum
+samp1220,fresh grape tomatoes
+samp1221,Bos taurus; bovine lymph node
+samp1228,Chelydra Serpentina in an irrigation pond; Chelydra serpentina
+samp1229,Blood culture 
+samp1233,deggi mirch
+samp1234,dark red paprika powder
+samp1235,"animal feed, blood meal"
+samp1240,"shrimp, tiny"
+samp1246,Swine; Sus domesticus
+samp1255,cleaned mud fish
+samp1257,shrimp and prawns
+samp1274,environmental water
+samp1275,equine (intestine)
+samp1277,sarsaparilla root
+samp1278,Canine (necropsy)
+samp1285,organic mini merlot heirloom tomatoes
+samp1286,Raw Dog Food
+samp1292,liquid cream yeast
+samp1301,"peanut, shelled"
+samp1304,Pepper Salami
+samp1309,fresh jalapeno peppers
+samp1310,sumac spice
+samp1311,frozen perch - farm raised
+samp1313,szechuan pepper
+samp1317,sprouted chia seed powder
+samp1321,"cashew, shelled"
+samp1326,Bos taurus; bovine cecum
+samp1329,mitla tea
+samp1333,hind end swab
+samp1335,Abscess
+samp1338,Vegetable
+samp1340,broadhead fish
+samp1344,frozen headless shrimp
+samp1346,swab; Homo sapiens
+samp1349,green cardamom
+samp1365,"cayenne pepper, fresh"
+samp1366,serrano pepper
+samp1367,beef tracheas
+samp1389,"basil, fresh, raw"
+samp1392,chili & lime flavored corn snacks
+samp1394,shoil(dried)
+samp1415,Sediment GA Pond- NP
+samp1426,chilli pieces
+samp1427,cow manure; Bos primigenius
+samp1429,"white shrimp, dried"
+samp1430,navratan snack mix
+samp1433,horse
+samp1437,bovine carcass swabs
+samp1442,water pond SC
+samp1452,Environmental; Wild type strain isolated from a natural source
+samp1455,Small fish in an irrigation pond; fish
+samp1460,Diporiphora winneckei
+samp1462,Animal-Turkey-Turkey Carcass Sponge
+samp1465,Basil Pesto
+samp1471,frz eel
+samp1474,milk
+samp1484,hydrolyzed vegetable protein
+samp1487,peeled shrimp
+samp1490,frz dace fish
+samp1500,aloe vera leaf powder
+samp1505,lamb
+samp1508,soft shell crabs
+samp1509,Larval animal in an irrigation pond
+samp1510,frz. shell on shrimp
+samp1513,avocado (butler)-whole pit fruit
+samp1520,Bovine (necropsy-intestine-lung-spleen)
+samp1524,Avian (feed)
+samp1535,Pig Stool
+samp1539,frozen yellowfin tuna steaks
+samp1544,Human-Outbreak; Homo sapiens
+samp1551,carbon monoxide treated tuna strip meat
+samp1556,chili pepper
+samp1562,"pet treat, beef filet square"
+samp1564,Gallus gallus
+samp1574,Bos taurus; bovine intestin
+samp1575,Dried Chili
+samp1581,Sus domesticus; Lung
+samp1586,Crop
+samp1595,soy grits
+samp1596,"sesame seeds, indian hulled"
+samp1599,frz peeled shrimp
+samp1602,thai dried chili
+samp1605,Bovine (colon); Bos sp.
+samp1608,Beefhide chicken strips
+samp1611,Mud Carp
+samp1613,clinical isolate; stool; Homo sapiens; stool
+samp1617,pocket squid
+samp1623,"squid, frz, raw, whole, cleaned"
+samp1624,rapeseed meal (canola meal)
+samp1626,"pistachio, in shell"
+samp1628,yellowfin tuna
+samp1642,"shrimp, cooked, peeled, frz"
+samp1643,masala mixed spices
+samp1649,frz cooked vannamei
+samp1662,prepared thyme plus sesame seeds
+samp1667,raw serrano peppers
+samp1678,frz. tiger shrimp
+samp1681,salmon treats
+samp1692,stool; Homo sapiens; Age: 58; female
+samp1697,ruhi carp
+samp1706,Perdicinae
+samp1710,cancerina root bark
+samp1711,Llama (feces); Lama glama
+samp1716,Pet Food Dog Patties
+samp1719,Dust sample; Free living
+samp1720,Environment; Free living
+samp1722,mixed thyme
+samp1723,pet chew - dried chicken
+samp1724,natural pig ears
+samp1731,powdered cumin
+samp1740,baked snack food
+samp1748,Cow Tissue Composite
+samp1750,Chichen Carcass
+samp1752,dried goji berries
+samp1759,frozen mahi mahi fillets
+samp1763,chicks feces; chicken
+samp1765,"seabass fish, frz"
+samp1769,"mackerel, vp -wild, frz, whole"
+samp1771,frz yellowfin tuna cubes
+samp1799,frozen spiny goby
+samp1801,jersey calf; Bos taurus
+samp1804,"shrimp p&d , frz"
+samp1808,mrigal (cirrhinus cirrhosus)
+samp1815,Organic Coriander Powder
+samp1820,"mud fish, whole"
+samp1831,"black tiger shrimp, iqf raw p&d"
+samp1832,"scad, frz, whole, baby"
+samp1833,frz chili pepper
+samp1843,render poultry by-products
+samp1846,Toasted Oat Cereal
+samp1848,Bovine (swab culturette swab)
+samp1849,red thyme mix
+samp1851,Rodent (necropsy)
+samp1861,FOOD-porcine
+samp1862,FOOD-Pig
+samp1867,molokhia leaves
+samp1872,dehydrated carrots; pet grade
+samp1873,dried red bell powder
+samp1883,hoy kom
+samp1884,wall swab
+samp1888,frozen blue crab
+samp1890,frozen squid tubes & tenticles
+samp1897,water from aquarium
+samp1899,kadhai spice mix
+samp1908,Raw Oysters
+samp1914,dried oregano
+samp1922,corriander powder
+samp1926,Turkey Trachea
+samp1929,fresh water fish
+samp1941,fresh indian long squash
+samp1943,Canine Tissue
+samp1944,Ground hot pepper
+samp1946,Pig Rectal Swab
+samp1950,Human (hospitalized)-Outbreak; Homo sapiens
+samp1951,fresh white squash
+samp1953,galactooligosaccharides (used in manufacture of infant formula)
+samp1955,"oregano, dry"
+samp1958,Incubator Room
+samp1960,frozen yellow fin seabream
+samp1967,canine feces; Dog
+samp1970,frozen tuna
+samp1971,raw octopus
+samp1973,Chick bedding
+samp1975,Bos taurus; bovine abomasum
+samp1976,Kangaroo Liver
+samp1981,Fishmeal
+samp1984,Monkey
+samp1991,"walking clarius(catfish), frz, cleaned and headless"
+samp1993,Bovine (hide)
+samp1997,Bell Peppers
+samp1998,shilago headles fish
+samp2000,soy lecithin fluid
+samp2001,sev bhujia (fried indian snack)
+samp2004,ground tomato from field
+samp2008,Rodent (feces); rodent
+samp2017,Pistacia vera L.
+samp2021,frz fish
+samp2023,water canal
+samp2033,toma piemontese cheese
+samp2035,frozen barramundi portions
+samp2039,pud shrimp
+samp2044,spice
+samp2046,"frz, thai chile pepper"
+samp2050,frozen cooked snail meat (sea snails)
+samp2055,water and sediment
+samp2061,frz. tilapia whole size
+samp2066,pepper (part of set)
+samp2079,cumin
+samp2086,Macadamia Diced Nuts
+samp2093,African frog
+samp2097,raw aquatic snails
+samp2104,"thai peppers, fresh"
+samp2108,"shrimp, raw, frz"
+samp2123,snapper fillets
+samp2125,dehydrated green leeks
+samp2138,"Bovine (multiple tissues-heart kidney,liver,spleen)"
+samp2141,tempeh culture open bag
+samp2151,calonji
+samp2154,Animal - Porcine-Feces
+samp2159,frozen sting ray fillets
+samp2170,"iguana meat, frz"
+samp2172,squid steaks
+samp2179,"animal feed, protein dairy feed"
+samp2186,chicken (unknown category); Gallus gallus
+samp2194,cooked shrimp ring with cocktail sauce
+samp2201,Bovine (necropsy); Bos taurus
+samp2208,dried clams
+samp2211,capybara; Hydrochoerus hydrochaeris
+samp2215,trout
+samp2216,frz tuna loins
+samp2222,mathiya tortilla snack
+samp2225,Reptile (multiple tissues)
+samp2227,spice mix
+samp2229,"Chick, Duckling bedding"
+samp2242,Human-Stool; Homo sapiens
+samp2254,Porcine (intestin)
+samp2262,"pearlspot, frz"
+samp2264,stool sample from patient with gastroenteritis; Homo sapiens
+samp2272,Human; Sacral wound
+samp2274,Felis catus
+samp2280,frozen clarias fish
+samp2290,chicken meal
+samp2293,nutmeg
+samp2295,Water GA Pond-BB
+samp2296,Squid strips
+samp2298,"blue crab, frz"
+samp2302,frz tail-on shrimp
+samp2308,frozen tuna medallion
+samp2311,"black pepper, crushed"
+samp2320,rohu fish
+samp2322,Water Snake Feces
+samp2326,fresh parsley
+samp2333,Animal - Chicken-Litter
+samp2335,tahina ( crushed sesame seed)
+samp2348,fresh tuna
+samp2356,Powdered Dietary Supplement
+samp2367,salted duck eggs
+samp2402,lakka (fish)
+samp2424,"striped bass whole, frz"
+samp2425,Nasopharynx; Homo sapiens
+samp2434,"halwa, sugar free pistachio"
+samp2442,avian liver; Bird
+samp2447,hilsha egg
+samp2449,Blood; Age: 60-69
+samp2450,Fresh Papayas
+samp2451,veg. soymeat croquet
+samp2453,frz raw yellowfin tuna steaks
+samp2454,homo spaiens; Body Fluid
+samp2456,Mink
+samp2464,Rectum; Homo sapiens
+samp2465,"mulberry, dried"
+samp2472,chili powder white
+samp2478,bell pepper
+samp2479,Dessicated coconut
+samp2485,bulk soyplus
+samp2491,"grouper fillets, frz raw"
+samp2503,frz golden pompano
+samp2507,brewer's yeast
+samp2508,Pig FECES
+samp2509,"catfish, yellow"
+samp2512,Reptile-iguana (feces)
+samp2514,Ground Turkey Raw
+samp2516,herbal tea
+samp2517,tuna cube
+samp2524,grated coconut
+samp2525,ovine liver
+samp2527,Isolate from Dog Food
+samp2528,turkey meat
+samp2530,Wild Bird
+samp2534,Dasycercus cristicauda
+samp2535,frozen black pomfrets
+samp2537,frz cuttlefish
+samp2538,dried crushed okra powder
+samp2543,coconut candy bars
+samp2555,paneer masala spice mix
+samp2561,featherback paste
+samp2563,sesame seeds/tahini paste
+samp2567,cardamom seeds ground
+samp2578,kangaroo loin fillets
+samp2581,"tuna scrape, yellowfin"
+samp2584,Food Breast-Outbreak
+samp2589,frz cut crab sections
+samp2591,Water GA Pond- NP
+samp2594,halawa liquid
+samp2597,frozen yellow  walking
+samp2606,Reisolated strain from 1956 cobaye
+samp2614,bovine rectal swab; Bos taurus
+samp2620,ovine brain; Ovis aries
+samp2630,fresh frozen shrimp
+samp2632,frz. tilapia
+samp2635,"bangladeshi fresh water fish, kajoli"
+samp2637,kajoli fish
+samp2638,frz fish sea perch
+samp2639,senna tea leaves
+samp2659,scarlet snapper
+samp2665,canine lung; Dog
+samp2678,dry roasted pistachio
+samp2683,Bos taurus; bovine pool feces
+samp2689,Sump Tank
+samp2690,King Python
+samp2693,Environmental: food-contact surface
+samp2694,trigger fillets
+samp2701,whole macadamia nuts
+samp2708,Porcine (environmental)
+samp2714,snacks-bombay mixture
+samp2717,frz yellowfin tuna aaa saku block
+samp2724,shrimp raw
+samp2730,"oyster meat, frz"
+samp2733,Bovine (environmental-milk filter)
+samp2734,whole frozen octopus
+samp2746,common redpoll
+samp2747,stuffed chicken breast
+samp2759,chicken intestinal
+samp2761,Rapeseed
+samp2762,Potorous tridactylus
+samp2767,"anaheim peppers, fresh"
+samp2769,pecans shelled
+samp2774,"frozen sockeye salmon portions, wild caught"
+samp2784,orange spice
+samp2791,barramundi fillets
+samp2797,Lamb lung
+samp2800,Horse Colon
+samp2803,frz cleaned & gutted octopus
+samp2807,Animal - Chicken-Egg
+samp2809,Deer; Deer
+samp2811,raw cashew pieces
+samp2820,frozen pompano iqf
+samp2821,large mouth bass
+samp2830,Naja Naja Sri Lankan cobra faeces
+samp2835,sultana biscuits
+samp2837,frozen tuna individually vacuum packed
+samp2845,lunch meat; lunch meat
+samp2847,"dog treat, beef filet sqr"
+samp2853,King Snake Feces
+samp2855,curry powder hot
+samp2862,rabbit; Oryctolagus cuniculus
+samp2865,dried hairtail
+samp2873,Ovine (necropsy-intestine)
+samp2882,Bovine (rectal)
+samp2890,Ground chuck
+samp2892,"layang scad, whole"
+samp2893,frz calamari rings
+samp2901,potato
+samp2902,Hampster Liver
+samp2905,BALL PYTHON
+samp2906,"organic anise seed, whole"
+samp2908,Dispholidus typus faeces
+samp2912,Chicken bites wrapped in bacon
+samp2918,methi leaves
+samp2922,uncooked shrimp
+samp2929,"animal feed, raw chicken carcass at slaughterhouse"
+samp2930,bulk feed
+samp2932,frozen whisker sheatfish
+samp2935,Zoo; Lizard
+samp2938,chilli powder regular
+samp2947,grains of paradise (pepper)
+samp2959,Porcine Rectal Swab
+samp2968,green mole powder
+samp2974,green radish
+samp2984,Meleagris gallopavo; intestin
+samp2985,Echis carinatus faeces
+samp2989,snack mix
+samp2990,Farm
+samp2994,Toucan
+samp2995,dug fish
+samp2998,blue poppy seeds
+samp3006,shrimp primavera
+samp3012,arnica flower tea whole
+samp3014,sweet basil (dried)
+samp3018,"pet food, frozen mice"
+samp3028,Moose FECES
+samp3030,Bovine (necropsy-liver-lung)
+samp3066,climbing perch
+samp3068,Gallus gallus: Carcass
+samp3077,dhana jeera powder
+samp3087,raccoon (feces)
+samp3088,Bovine (bunk feed)
+samp3103,shelled pistachios
+samp3116,poultry starter feed
+samp3122,Stool; Age: 30-39
+samp3125,bovine swab
+samp3128,chick paper
+samp3130,hot pepper
+samp3134,tuna loins
+samp3152,achiote molido (ground annato)
+samp3154,spicy bean burger
+samp3157,synovial fluid/joint fluid; Homo sapiens
+samp3158,frz. wild-caught scad
+samp3166,Deer Tissue Composite
+samp3176,dry green beans
+samp3178,celery stalk and leaf
+samp3179,kasoori methi (fenugreek )
+samp3190,"serrano pepper, fresh"
+samp3191,Abscess pus
+samp3193,Sus domesticus; Brain Swab
+samp3201,Boiga dendrophila
+samp3206,nimco mix
+samp3208,bile fluid; Homo sapiens
+samp3211,Celery Microgreens
+samp3222,whole cleaned travelly
+samp3225,raw scallops
+samp3229,agra taj dalmoth (fried snack food)
+samp3232,frozen hilsha
+samp3234,green pepper
+samp3236,roasted pumpkin seeds
+samp3239,"Bovine (necropsy-intestine,liver,lung)"
+samp3241,frozen raw vannamei white shrimp
+samp3242,Chickenkiev
+samp3243,sheer khurma dessert mix
+samp3253,halawa
+samp3258,pork blood meal
+samp3260,Bovine Liver
+samp3268,neck abscess; Homo sapiens
+samp3272,"animal feed, dairy mash"
+samp3273,sugar free plain halva
+samp3279,"tuna steak, frz, smoked"
+samp3284,Iguana (feces); Iguana sp.
+samp3286,frozen whole tilapia
+samp3297,"scarlet snapper fillets, raw, skin on, boneless"
+samp3299,blolovi smoked fish
+samp3308,Bovine (feed-supplement)
+samp3311,sweet bell peppers
+samp3315,Snake Tissue
+samp3318,onion/clover sprouts
+samp3320,tempeh culture unopen bag
+samp3326,ground yellowfin tuna
+samp3329,Echis coloratus  faeces
+samp3332,Blood culture; Patient Havill 
+samp3341,frozen tilapia fillets
+samp3355,frozen dried pilot fish
+samp3356,clinical
+samp3358,frz whole tilapia
+samp3363,hot masala
+samp3376,turtle tank water
+samp3377,iqf cleaned octopus
+samp3385,"yellowtail emperor fish -gutted, cleaned, frozen"
+samp3388,raw chicken blend for dogs and cats (frozen)
